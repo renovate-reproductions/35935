@@ -32,7 +32,7 @@
   "devDependencies": {
   },
   "resolutions": {
-    "formidable": "3.5.3",
+    "formidable": "3.5.4",
     "@babel/traverse": "7.27.1",
     "@babel/helpers": "7.27.1"
   },
