@@ -33,7 +33,7 @@
   },
   "resolutions": {
     "formidable": "3.5.3",
-    "@babel/traverse": "7.27.1",
+    "@babel/traverse": "7.27.4",
     "@babel/helpers": "7.27.1"
   },
   "jest": {
